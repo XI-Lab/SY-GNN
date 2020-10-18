@@ -1,6 +1,6 @@
 # SY-GNN
 
- PyTorch implementation of [Symmetrical Graph Neural Network for Quantum Chemistry with Dual Real and Momenta Space]()
+ PyTorch implementation of [Symmetrical Graph Neural Network for Quantum Chemistry with Dual Real and Momenta Space](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c03201)
 
 ## Requirements:
 ase>=3.10.1
